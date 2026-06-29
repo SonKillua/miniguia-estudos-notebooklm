@@ -49,68 +49,97 @@ Qual seria o conselho para alguém que começaria a investir agora?
 ```
 Com base nos ensinamentos de Warren Buffett e nas análises presentes nas fontes, o conselho para quem está começando a investir agora, especialmente no cenário de 2026, divide-se em três pilares fundamentais: simplicidade através de índices, investimento em si mesmo e disciplina psicológica.
 
-1. O Caminho para o "Investidor que não sabe nada"
-Buffett afirma que a grande maioria dos investidores teria melhores resultados se evitasse a escolha individual de ações e optasse por fundos de índice (ETFs) de baixo custo que rastreiam o S&P 500.
-
-A Estratégia de 2026: Se estivesse começando do zero em 2026, uma sugestão específica das fontes é compor uma carteira com três ETFs: VOO (S&P 500) como base, SCHD (focado em dividendos e estabilidade) para fluxo de caixa e QQQ (NASDAQ 100) para exposição à inovação tecnológica e IA.
-
-Aportes Constantes: O método recomendado é o Dollar Cost Averaging (investimento gradual em intervalos regulares), o que ajuda a mitigar o risco de entrar no mercado em um momento de preços elevados e transforma a volatilidade em aliada.
-
-2. O Melhor Investimento de Todos
-Antes de alocar capital no mercado financeiro, Buffett destaca que o melhor investimento que você pode fazer é em suas próprias habilidades.
-
-Comunicação: Ele enfatiza que melhorar suas habilidades de comunicação (oratória e escrita) pode aumentar seu valor profissional em pelo menos 50%.
-
-Aprendizado Contínuo: A "Regra das 5 Horas" (dedicar uma hora por dia à leitura e reflexão) é vista como o segredo para acumular conhecimento de forma composta, assim como o dinheiro.
-
-3. Princípios Fundamentais (Os 4M's)
-Para aqueles que desejam selecionar negócios individuais, as fontes sugerem o framework dos 4M's:
-- Meaning (Significado/Círculo de Competência): Invista apenas no que você entende profundamente.
-- Moat (Fosso Econômico): Busque empresas com vantagens competitivas duráveis.
-- Management (Gestão): Avalie se os líderes são honestos, competentes e agem como donos.
-- Margin of Safety (Margem de Segurança): Nunca pague o preço total.
-
-4. Avisos Importantes para o Momento Atual (2026)
-As fontes indicam que, em meados de 2026, o mercado vive um "clima de jogo" e as ações estão objetivamente caras, com o S&P 500 apresentando um P/E ratio acima da média histórica.
-
-Paciência e Caixa: Buffett e seu sucessor, Greg Abel, têm mantido níveis recordes de caixa (quase US$ 400 bilhões), demonstrando que é melhor esperar por uma oportunidade excelente do que forçar investimentos em ativos caros.
-
-Evite Dívidas: Um conselho vital para iniciantes é pagar dívidas de cartão de crédito e evitar alavancagem.
+[... resposta técnica completa ...]
 
 Conclusão: O sucesso não depende de genialidade, mas de temperamento.
 ```
 
 **Referências Usadas**: Ensinamentos de Warren Buffett sobre Value Investing, ETFs e disciplina psicológica
 
-**Avaliação:** ⭐⭐⭐⭐ (4/5)
+**Avaliação:** ⭐⭐⭐ (3/5)
 - ✅ Pontos fortes:
   - Resposta bem estruturada e abrangente
   - Traz informações relevantes e específicas
   - Cita exemplos práticos (ETFs, 4M's, Regra das 5 Horas)
-  - Contextualiza para 2026
 - ❌ Limitações:
   - **MUITO técnica** para um iniciante absoluto
-  - Usa muitos termos em inglês sem explicação simples (ETFs, Dollar Cost Averaging, P/E ratio, Moat)
+  - Usa muitos termos em inglês sem explicação simples
   - Presume conhecimento financeiro prévio
-  - Apresenta muitas informações de uma vez (informação overload)
+  - Informação overload - muita coisa de uma vez
 
 ---
 
-#### Prompt 1.1: Simplificação para Iniciante Absoluto
+#### Prompt 1.1: Simplificação com Analogias e Linguagem Acessível ✅ **VERSÃO MELHORADA**
 
 **Versão Refinada:**
 ```
-Imagine que você está explicando para um amigo que não entende NADA de investimentos e tem medo de perder dinheiro. Qual seria o conselho MAIS SIMPLES e MENOS ASSUSTADOR que Warren Buffett daria? Use EXEMPLOS DO DIA A DIA e EVITE termos técnicos.
+Imagine que você está explicando para um amigo que não entende NADA de investimentos 
+e tem medo de perder dinheiro. Qual seria o conselho MAIS SIMPLES e MENOS ASSUSTADOR 
+que Warren Buffett daria? Use EXEMPLOS DO DIA A DIA e EVITE termos técnicos.
 ```
 
-**Resposta Esperada**: [A ser testada]
+**Resposta Obtida:**
+```
+Se o seu medo é perder dinheiro e você não entende nada do "economês" do mercado, o conselho 
+mais simples que o Warren Buffett daria pode ser resumido em uma frase: não tente ser esperto 
+demais; em vez disso, compre "o país inteiro" e esqueça que a bolsa existe.
 
-**Cicatriz (Troubleshooting):**
-- **Problema encontrado**: A IA forneceu uma resposta correta mas muito complexa para o público-alvo. Termos como "ETF", "Dollar Cost Averaging", "P/E ratio" e "Moat" não são explicados de forma acessível.
-- **Solução aplicada**: Adicionar ao prompt: (1) Especificar o nível de público (iniciante absoluto), (2) Pedir exemplos simples, (3) Solicitar que evite jargão financeiro ou o explique em linguagem comum, (4) Limitar a quantidade de informações em cada resposta.
-- **Aprendizado**: A IA responde melhor quando você define claramente PARA QUEM você quer a resposta e COMO quer que seja apresentada. Simplicidade é um parâmetro que precisa ser explícito no prompt.
+1. Imagine que você comprou uma Fazenda
+Pense que você decidiu comprar uma fazenda ou um apartamento para alugar. No dia seguinte à compra, 
+você não sai correndo para perguntar para todo mundo: "Quanto vale minha fazenda hoje?".
+Você apenas olha se a terra está produzindo milho ou se o inquilino pagou o aluguel.
+Investir em ações é a mesma coisa. Buffett diz que você não está comprando um código que pisca 
+na tela, mas sim um pedacinho de um negócio real (como a Coca-Cola ou a Apple).
+Se a empresa continua vendendo e dando lucro, não importa se o preço dela "subiu ou desceu" na televisão hoje.
 
-**Avaliação:** ⭐⭐⭐⭐⭐ (A ser confirmada após teste)
+2. O seu Vizinho Maluco (O "Sr. Mercado")
+Buffett usa a história de um sócio imaginário chamado Sr. Mercado. Imagine que esse vizinho bate 
+na sua porta todo santo dia oferecendo um preço para comprar a sua casa ou vender a dele.
+Tem dias que ele está muito animado e pede um preço absurdo de caro. Tem dias que ele está triste 
+e deprimido, e oferece a casa dele por uma "pechincha".
+O segredo é: você não é obrigado a aceitar o que ele diz. Se o preço que ele oferece é bobo, 
+você apenas fecha a porta e vai jogar baralho.
+O erro de muita gente é deixar o vizinho maluco ditar como elas devem se sentir sobre o próprio dinheiro.
+
+3. Aproveite as "Promoções" de Hambúrguer
+A maioria das pessoas fica triste quando as ações caem, mas Buffett pensa o contrário. 
+Ele pergunta: "Se você gosta de comer hambúrguer, você prefere que o preço dele suba ou caia?".
+É claro que você prefere que caia, para poder comer mais gastando menos.
+Se você planeja investir por muito tempo, uma queda no mercado é apenas uma liquidação de sapatos 
+ou roupas de qualidade. É a sua chance de comprar ótimos negócios por um preço menor.
+
+4. A Estratégia do "Caminho Suave"
+Para quem tem medo, o conselho final de Buffett é o mais tranquilo de todos: não tente escolher 
+uma única empresa. Em vez disso, coloque seu dinheiro em um fundo que é como uma "cesta" 
+contendo as 500 maiores empresas do mercado (o chamado fundo de índice ou ETF).
+Ao fazer isso, você se torna "dono" do progresso de todo o país. O passo a passo seria:
+- Invista um pouquinho todo mês
+- Tenha paciência de árvore
+- Não mexa no time que está ganhando
+
+Resumo: O risco não vem de investir, mas sim de "não saber o que você está fazendo".
+```
+
+**Cicatriz (Troubleshooting) - PROBLEMA IDENTIFICADO E RESOLVIDO:** ✅
+- **Problema encontrado**: A primeira resposta era técnica demais, usando jargão financeiro sem explicações. Termos como "ETF", "Dollar Cost Averaging", "P/E ratio" alienavam o público iniciante.
+- **Solução aplicada**: 
+  1. Especificar NO PROMPT que a resposta era para "alguém que não entende NADA"
+  2. Pedir explicitamente "USE EXEMPLOS DO DIA A DIA"
+  3. Instruir para "EVITAR termos técnicos"
+  4. Usar linguagem coloquial ("Sr. Mercado", "Vizinho Maluco", "hambúrguer")
+- **Aprendizado**: **A IA muda drasticamente a qualidade da resposta quando você:**
+  - Define claramente o nível de expertise do público-alvo
+  - Pede analogias e exemplos concretos
+  - Solicita para evitar jargão ou explicá-lo
+  - Usa palavras indicadoras de tom (simples, acessível, menos assustador)
+
+**Avaliação:** ⭐⭐⭐⭐⭐ (5/5) - **SUCESSO!**
+- ✅ Extremamente acessível para iniciante
+- ✅ Usa analogias do dia a dia (fazenda, vizinho, hamburger)
+- ✅ Mantém as informações de Buffett mas em linguagem simples
+- ✅ Reduz medo do iniciante
+- ✅ Direto ao ponto
+- ✅ Memorável (Sr. Mercado, "paciência de árvore")
 
 ---
 
@@ -118,12 +147,12 @@ Imagine que você está explicando para um amigo que não entende NADA de invest
 
 **Versão Inicial:**
 ```
-Explique os 4M's de Warren Buffett (Meaning, Moat, Management, Margin of Safety) como se estivesse contando para alguém que nunca investiu na vida. Use metáforas e exemplos reais que qualquer pessoa entendera.
+Explique os 4M's de Warren Buffett (Meaning, Moat, Management, Margin of Safety) 
+como se estivesse contando para alguém que nunca investiu na vida. 
+Use metáforas e exemplos reais que qualquer pessoa entendera.
 ```
 
-**Resposta Obtida:** [A ser preenchida]
-
-**Referências Usadas:** [Fontes citadas]
+**Resposta Obtida:** [A ser preenchida quando testada]
 
 **Cicatrizes (Troubleshooting):**
 - **Problema encontrado**: 
@@ -138,10 +167,12 @@ Explique os 4M's de Warren Buffett (Meaning, Moat, Management, Margin of Safety)
 
 **Versão Inicial:**
 ```
-Um iniciante está em dúvida: comprar ações de empresas individuais ou investir em ETFs? Explique a diferença com uma analogia simples (como escolher ir sozinho para um lugar desconhecido vs ir com um grupo de amigos que conhecem o caminho).
+Um iniciante está em dúvida: comprar ações de empresas individuais ou investir em ETFs? 
+Explique a diferença com uma analogia simples (como escolher ir sozinho para um lugar desconhecido 
+vs ir com um grupo de amigos que conhecem o caminho).
 ```
 
-**Resposta Obtida:** [A ser preenchida]
+**Resposta Obtida:** [A ser preenchida quando testada]
 
 **Cicatrizes (Troubleshooting):**
 - **Problema encontrado**: 
@@ -155,15 +186,32 @@ Um iniciante está em dúvida: comprar ações de empresas individuais ou invest
 ### Insights sobre a Engenharia de Prompts
 
 **Padrões Observados:**
-1. **Especificidade do Público**: Quando explico PARA QUEM é a resposta, a IA adapta melhor o nível de complexidade
-2. **Uso de Analogias**: Pedir "explique como se..." torna as respostas mais acessíveis
-3. **Limitação de Escopo**: Ao invés de "Qual é o melhor investimento?", perguntar "Compare ETFs vs Ações para iniciante" traz respostas mais focadas
-4. **Evitar Jargão**: Explicitamente pedir para evitar termos técnicos ou explicá-los resulta em respostas mais digeríveis
 
-**Estratégia em Evolução:**
-- Versão 1: Perguntas genéricas → Respostas técnicas
-- Versão 2: Especificar público + pedir simplicidade → Respostas mais acessíveis (RESULTADO: MELHOR!)
-- Próxima: Combinar simplicidade + analogias + exemplos práticos
+1. **Especificidade do Público** ⭐⭐⭐⭐⭐
+   - Versão genérica: Resposta técnica e complexa
+   - Com público especificado: Resposta adaptada ao nível
+   - **Impacto**: Transformou a qualidade da resposta em 100%
+
+2. **Uso de Analogias**
+   - Pedir "explique como se..." ou "use uma metáfora" torna respostas memoráveis
+   - Exemplos do dia a dia (fazenda, vizinho, hambúrguer) conectam com experiência do leitor
+
+3. **Evitar Jargão Explicitamente**
+   - Não basta não usar jargão, é preciso **instruir a IA**
+   - Resultado: Termos técnicos são evitados ou explicados naturalmente
+
+4. **Tom e Linguagem**
+   - Palavras como "simples", "menos assustador", "tranquilo" influenciam o tom
+   - IA adapta formalidade e abordagem baseado nestas pistas
+
+5. **Limitação de Escopo**
+   - Prompts muito abertos = muita informação
+   - Prompts focados = respostas diretas e úteis
+
+**Evolução da Estratégia:**
+- **Iteração 1**: "Qual seria o conselho...?" → Resposta técnica ❌
+- **Iteração 2**: "Para iniciante, sem jargão, com exemplos..." → Resposta excelente ✅
+- **Próxima**: Combinar simplicidade + aprofundamento para diferentes níveis de público
 
 ---
 
@@ -171,43 +219,43 @@ Um iniciante está em dúvida: comprar ações de empresas individuais ou invest
 
 ### 1. Resumo Estruturado do Assunto
 
-#### Capítulo 1: Fundamentos do Value Investing
+#### Capítulo 1: Fundamentos do Value Investing (Comprar Barato)
 - **Conceito Central**: Comprar algo que vale mais pelo preço de menos - como encontrar um bom negócio.
 - **Pontos-chave**:
-  - Análise fundamental profunda
-  - Margem de segurança
-  - Pensamento de longo prazo
-- **Aplicação Prática**: [Como isso se aplica na prática?]
+  - Não confunda o preço (quanto custa hoje) com o valor (quanto realmente vale)
+  - Se uma empresa é boa e vende bem, o preço temporário não importa
+  - Pensar em longo prazo (10+ anos)
+- **Aplicação Prática**: Quando as ações caem, é uma oportunidade (como promoção no supermercado), não um desastre
 
-#### Capítulo 2: Os 4M's - Como Warren Buffett Escolhe Investimentos
-- **Conceito Central**: Um conjunto de critérios simples para saber se uma empresa é um bom investimento
+#### Capítulo 2: O Sr. Mercado e a Psicologia do Investidor
+- **Conceito Central**: O mercado (preço das ações) muda todos os dias, mas isso não muda o valor real da empresa
 - **Pontos-chave**:
-  - **M de Meaning (Sentido/Entendimento)**: Só invista no que você entende
-  - **M de Moat (Proteção)**: A empresa tem algo que a protege da concorrência?
-  - **M de Management (Gestão)**: Os donos/líderes são honestos e competentes?
-  - **M de Margin of Safety (Margem de Segurança)**: Você está pagando um preço justo (com desconto)?
-- **Aplicação Prática**: 
+  - O Sr. Mercado oferece preços diferentes todos os dias (às vezes caro, às vezes barato)
+  - Você não é obrigado a aceitar os preços que ele oferece
+  - Seu trabalho é: comprar quando está barato, esperar, e não se deixar assustar
+- **Aplicação Prática**: Ignore o preço da bolsa no noticiário. Foque em: "A empresa está vendendo bem?"
 
-#### Capítulo 3: Psicologia do Investidor - O Temperamento Importa Mais que Genialidade
-- **Conceito Central**: Seu comportamento e paciência são mais importantes que saber análise técnica
+#### Capítulo 3: A Estratégia do Iniciante (Comprar a Cesta)
+- **Conceito Central**: Para quem não quer escolher uma única empresa, compre um "fundo" que tem todas as 500 maiores
 - **Pontos-chave**:
-  - Evitar pânico quando mercado cai
-  - Pensar como proprietário (de longo prazo)
-  - Paciência para esperar boas oportunidades
-- **Aplicação Prática**: 
+  - Investir um pouco todo mês (reduz risco)
+  - Deixar crescer por muitos anos (juros compostos)
+  - Não mexer, não olhar para o preço todo dia
+- **Aplicação Prática**: Defina um valor mensal (ex: R$500) e esqueça que a bolsa existe
 
 ---
 
-### 2. Glossário de Conceitos
+### 2. Glossário de Conceitos (Versão Simplificada)
 
-| Termo | Definição Simples | Contexto/Aplicação |
+| Termo | Definição Simples | Exemplo Prático |
 |-------|----------|-------------------|
-| **Value Investing** | Comprar algo que vale mais pelo preço de menos | Procurar ações baratas de empresas boas |
-| **Moat (Proteção)** | Algo que protege a empresa da concorrência | Marca forte (Apple), ou muito barato (Walmart) |
-| **Margem de Segurança** | Comprar com desconto para se proteger de erros | Se vale R$100, compre por R$70 |
-| **ROE (Retorno)** | Quanto a empresa lucra com o dinheiro que tem | Quanto melhor, mais eficiente a empresa |
-| **ETF** | Um "cesto" com várias ações de empresas diferentes | Forma segura para iniciante começar |
-| **Dollar Cost Averaging** | Investir a mesma quantidade regularmente | Ao invés de colocar tudo de uma vez |
+| **Value Investing** | Comprar algo que vale mais pelo preço de menos | Encontrar um iPhone à venda por 50% do preço |
+| **Moat (Proteção)** | Algo que protege a empresa da concorrência | Coca-Cola: todo mundo conhece, difícil uma marca competir |
+| **Margem de Segurança** | Comprar com desconto para se proteger de erros | Se uma ação vale R$100, compre por R$70 |
+| **Sr. Mercado** | O preço que a bolsa oferece todo dia | Oferecimento diário de compra/venda (pode estar errado) |
+| **ETF / Fundo de Índice** | Uma "cesta" com várias ações diferentes | Como investir em 500 empresas com um único clique |
+| **Dollar Cost Averaging** | Investir a mesma quantidade regularmente | Investir R$500 todos os meses ao invés de R$6.000 de uma vez |
+| **Paciência de Árvore** | Deixar o investimento crescer durante muitos anos | Plantou semente, aguarda 20 anos, colhe fruto |
 
 ---
 
@@ -215,29 +263,36 @@ Um iniciante está em dúvida: comprar ações de empresas individuais ou invest
 
 Estes prompts foram validados e podem ser usados para aprofundar o conhecimento ou revisar o tema:
 
-#### Prompt de Revisão Geral
+#### Prompt de Revisão Geral (SIMPLIFICADO) ⭐⭐⭐⭐⭐
 ```
-Resuma para um iniciante os 3 conselhos mais importantes de Warren Buffett sobre investimento, usando exemplos que qualquer pessoa entenda (sem jargão financeiro).
-```
-
-#### Prompt de Aprofundamento
-```
-Explique como Warren Buffett avalia a qualidade da gestão de uma empresa, comparando com exemplos de CEOs que ele admiraria vs não admiraria. Use casos reais.
+Resuma para um iniciante OS 3 CONSELHOS MAIS IMPORTANTES de Warren Buffett sobre 
+investimento, usando exemplos que qualquer pessoa entenda (sem jargão financeiro). 
+Responda em 3 parágrafos simples.
 ```
 
-#### Prompt de Aplicação Prática
+#### Prompt de Aprofundamento (COM ANALOGIAS)
 ```
-Dado um relatório simples de uma empresa (nome, o que faz, se ganha dinheiro, quanto custa), como eu aplicaria os 4M's para decidir se é um bom investimento? Explique passo a passo em linguagem simples.
-```
-
-#### Prompt de Comparação
-```
-Qual é a diferença entre a estratégia de Warren Buffett (Value Investing) e outras estratégias como "comprar ação que está em alta" ou "day trading"? Explique o risco de cada uma.
+Explique como Warren Buffett avalia a qualidade da gestão de uma empresa, 
+usando uma analogia com escolher um técnico de time de futebol ou um professor para sua filha. 
+O que torna um líder BOM vs RUIM?
 ```
 
-#### Prompt de Troubleshooting
+#### Prompt de Aplicação Prática (PASSO A PASSO)
 ```
-Quais são os 5 erros mais comuns que iniciantes cometem ao tentar investir como Warren Buffett? Para cada um, dê uma solução prática.
+Sou iniciante e quero começar a investir agora. Dê-me um plano de ação de 5 passos 
+que qualquer pessoa consegue seguir, sem precisar ser genial em matemática ou finanças.
+```
+
+#### Prompt de Comparação (DIFERENÇAS CLARAS)
+```
+Qual é a diferença entre a estratégia de Warren Buffett (Value Investing) e outras estratégias 
+como "comprar ação que está em alta" ou "day trading"? Explique o risco de cada uma com exemplos simples.
+```
+
+#### Prompt de Troubleshooting (ERROS COMUNS)
+```
+Quais são os 5 ERROS MAIS COMUNS que iniciantes cometem ao tentar investir como Warren Buffett? 
+Para cada um, dê uma solução prática e simples.
 ```
 
 ---
@@ -245,19 +300,20 @@ Quais são os 5 erros mais comuns que iniciantes cometem ao tentar investir como
 ## 📊 Conclusões e Próximos Passos
 
 ### Principais Aprendizados
-- [Aprendizado 1]
-- [Aprendizado 2]
-- [Aprendizado 3]
+1. **Engenharia de Prompts é crucial**: A mesma pergunta feita de forma diferente gera resultados completamente diferentes
+2. **Especificar público-alvo funciona**: Quando você diz "para iniciante", a IA adapta complexidade automaticamente
+3. **Analogias são poder**: Fazer conexões com o dia a dia (fazenda, vizinho, hambúrguer) torna a informação memorável
 
 ### Lacunas Identificadas
-- [Lacuna 1 - e como pretende preenchê-la]
-- [Lacuna 2 - e como pretende preenchê-la]
+- [ ] Testar Prompt 2 (Os 4M's com analogias)
+- [ ] Testar Prompt 3 (ETFs vs Ações com comparação)
+- [ ] Aprofundar em casos de uso reais (análise de empresa específica)
 
 ### Próximos Passos
-- [ ] Testar Prompt 1.1 (versão simplificada para iniciante)
-- [ ] Testar Prompt 2 (Os 4M's com analogias)
-- [ ] Testar Prompt 3 (ETFs vs Ações com comparação simples)
-- [ ] Documentar respostas e refinar ainda mais
+- [ ] Testar os 3 prompts restantes e documentar respostas
+- [ ] Criar guia prático passo a passo para primeiro investimento
+- [ ] Compilar perguntas frequentes de iniciantes
+- [ ] Gerar "checklist" para análise de empresas em linguagem simples
 
 ---
 
@@ -269,15 +325,17 @@ Quais são os 5 erros mais comuns que iniciantes cometem ao tentar investir como
 - **Ferramentas Utilizadas**: NotebookLM, GitHub
 - **Autor**: SonKillua
 - **Temas Principais**: Warren Buffett, Value Investing, Investimentos para Iniciantes
+- **Status**: Em progresso - 2 de 5 prompts testados ✅
 
 ---
 
 ## 🔗 Recursos Adicionais
 
 - [NotebookLM do Projeto](https://notebooklm.google.com/notebook/ea2bbc08-a983-4738-8700-0d4c13724ee8)
-- [Referências externas]
+- [Referências externas a adicionar]
 - [Projetos relacionados]
 
 ---
 
 **Última atualização**: 29/06/2026
+**Status**: Engenharia de prompts em andamento - primeiro refinamento bem-sucedido ✅
