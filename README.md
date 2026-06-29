@@ -22,13 +22,11 @@ As seguintes fontes foram selecionadas e analisadas no NotebookLM:
 
 | # | Título | Tipo | Link/Referência | Data de Upload |
 |---|--------|------|-----------------|-----------------|
-| 1 | [Título da Fonte] | PDF/Texto | [Link](URL) | [Data] |
-| 2 | [Título da Fonte] | PDF/Texto | [Link](URL) | [Data] |
-| 3 | [Título da Fonte] | PDF/Texto | [Link](URL) | [Data] |
-| 4 | [Título da Fonte] | PDF/Texto | [Link](URL) | [Data] |
-| 5 | [Título da Fonte] | PDF/Texto | [Link](URL) | [Data] |
+| 1 | 5 Ensinamentos de Warren Buffett | Texto Web | [BTG Pactual](https://content.btgpactual.com/blog/investimentos/5-ensinamentos-de-warren-buffett) | 29/06/2026 |
+| 2 | Tudo Sobre Warren Buffett | Texto Web | [Suno](https://www.suno.com.br/tudo-sobre/warren-buffett/) | 29/06/2026 |
+| 3 | Warren Buffett's Investing Style (Traduzido) | Texto Web | [Investopedia](https://www-investopedia-com.translate.goog/investing/warren-buffetts-investing-style-reviewed/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) | 29/06/2026 |
 
-**Critério de Seleção**: Selecionei fontes que abordam as principais estratégias de investimento de Warren Buffett, incluindo seus princípios de Value Investing, análise fundamental e gestão de carteira.
+**Critério de Seleção**: Selecionei 3 fontes abertas em texto (web) que abordam as principais estratégias de investimento de Warren Buffett, incluindo seus princípios fundamentais de Value Investing, análise de empresas e filosofia de longo prazo. As fontes variam entre análise brasileira (BTG Pactual e Suno) e perspectiva internacional (Investopedia traduzida), proporcionando uma visão equilibrada e completa sobre o tema.
 
 ---
 
@@ -433,13 +431,6 @@ Para cada um, dê uma solução prática.
 - ✅ Comparação com outras abordagens
 - ✅ Passo a passo executável
 
-### Próximos Passos (Opcional)
-- [ ] Criar vídeos resumindo os 5 prompts
-- [ ] Testar prompts em português de Portugal
-- [ ] Criar versão com gráficos/infográficos
-- [ ] Compilar perguntas frequentes reais de usuários
-- [ ] Criar checklist visual para análise de empresas
-
 ---
 
 ## 📝 Metadados do Projeto
@@ -451,6 +442,7 @@ Para cada um, dê uma solução prática.
 - **Autor**: SonKillua
 - **Temas Principais**: Warren Buffett, Value Investing, Investimentos para Iniciantes
 - **Status**: ✅ **COMPLETO - 5 de 5 prompts testados e documentados**
+- **Fontes Utilizadas**: 3 fontes abertas em texto (BTG Pactual, Suno, Investopedia)
 
 ---
 
@@ -471,9 +463,9 @@ Para cada um, dê uma solução prática.
 ## 🔗 Recursos Adicionais
 
 - [NotebookLM do Projeto](https://notebooklm.google.com/notebook/ea2bbc08-a983-4738-8700-0d4c13724ee8)
-- [Warren Buffett Official Website](https://www.berkshirehathaway.com/)
-- [Investopedia - Value Investing](https://www.investopedia.com/terms/v/valueinvesting.asp)
-- [Projetos relacionados]
+- [5 Ensinamentos de Warren Buffett - BTG Pactual](https://content.btgpactual.com/blog/investimentos/5-ensinamentos-de-warren-buffett)
+- [Tudo Sobre Warren Buffett - Suno](https://www.suno.com.br/tudo-sobre/warren-buffett/)
+- [Warren Buffett's Investing Style - Investopedia (PT)](https://www-investopedia-com.translate.goog/investing/warren-buffetts-investing-style-reviewed/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
 
 ---
 
