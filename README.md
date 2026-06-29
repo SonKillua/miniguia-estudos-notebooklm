@@ -22,9 +22,9 @@ As seguintes fontes foram selecionadas e analisadas no NotebookLM:
 
 | # | Título | Tipo | Link/Referência | Data de Upload |
 |---|--------|------|-----------------|-----------------|
-| 1 | 5 Ensinamentos de Warren Buffett | Texto Web | [BTG Pactual](https://content.btgpactual.com/blog/investimentos/5-ensinamentos-de-warren-buffett) | 29/06/2026 |
-| 2 | Tudo Sobre Warren Buffett | Texto Web | [Suno](https://www.suno.com.br/tudo-sobre/warren-buffett/) | 29/06/2026 |
-| 3 | Warren Buffett's Investing Style (Traduzido) | Texto Web | [Investopedia](https://www-investopedia-com.translate.goog/investing/warren-buffetts-investing-style-reviewed/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) | 29/06/2026 |
+| 1 | 5 Ensinamentos de Warren Buffett | Texto Web | [BTG Pactual](https://content.btgpactual.com/blog/investimentos/5-ensinamentos-de-warren-buffett) | 28/06/2026 |
+| 2 | Tudo Sobre Warren Buffett | Texto Web | [Suno](https://www.suno.com.br/tudo-sobre/warren-buffett/) | 28/06/2026 |
+| 3 | Warren Buffett's Investing Style (Traduzido) | Texto Web | [Investopedia](https://www-investopedia-com.translate.goog/investing/warren-buffetts-investing-style-reviewed/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc) | 28/06/2026 |
 
 **Critério de Seleção**: Selecionei 3 fontes abertas em texto (web) que abordam as principais estratégias de investimento de Warren Buffett, incluindo seus princípios fundamentais de Value Investing, análise de empresas e filosofia de longo prazo. As fontes variam entre análise brasileira (BTG Pactual e Suno) e perspectiva internacional (Investopedia traduzida), proporcionando uma visão equilibrada e completa sobre o tema.
 
