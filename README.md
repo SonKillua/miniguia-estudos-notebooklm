@@ -45,82 +45,25 @@ Nesta seção, documento as perguntas estratégicas elaboradas, variações de p
 Qual seria o conselho para alguém que começaria a investir agora?
 ```
 
-**Resposta Obtida:**
-```
-Com base nos ensinamentos de Warren Buffett e nas análises presentes nas fontes, o conselho para quem está 
-começando a investir agora, especialmente no cenário de 2026, divide-se em três pilares fundamentais...
-[resposta técnica completa]
-```
+**Avaliação:** ⭐⭐⭐ (3/5) - Resposta técnica demais
 
-**Referências Usadas**: Ensinamentos de Warren Buffett sobre Value Investing, ETFs e disciplina psicológica
-
-**Avaliação:** ⭐⭐⭐ (3/5)
-- ✅ Pontos fortes:
-  - Resposta bem estruturada e abrangente
-  - Traz informações relevantes e específicas
-- ❌ Limitações:
-  - **MUITO técnica** para um iniciante absoluto
-  - Usa muitos termos em inglês sem explicação
-
----
-
-#### Prompt 1.1: Simplificação com Analogias e Linguagem Acessível ✅ **VERSÃO MELHORADA**
-
-**Versão Refinada:**
+**Versão Refinada (1.1):**
 ```
 Imagine que você está explicando para um amigo que não entende NADA de investimentos 
 e tem medo de perder dinheiro. Qual seria o conselho MAIS SIMPLES e MENOS ASSUSTADOR 
 que Warren Buffett daria? Use EXEMPLOS DO DIA A DIA e EVITE termos técnicos.
 ```
 
-**Resposta Obtida:**
-```
-Se o seu medo é perder dinheiro e você não entende nada do "economês" do mercado, o conselho 
-mais simples que o Warren Buffett daria pode ser resumido em uma frase: não tente ser esperto 
-demais; em vez disso, compre "o país inteiro" e esqueça que a bolsa existe.
-
-1. Imagine que você comprou uma Fazenda
-Pense que você decidiu comprar uma fazenda ou um apartamento para alugar. No dia seguinte à compra, 
-você não sai correndo para perguntar para todo mundo: "Quanto vale minha fazenda hoje?".
-Investir em ações é a mesma coisa. Buffett diz que você não está comprando um código que pisca 
-na tela, mas sim um pedacinho de um negócio real (como a Coca-Cola ou a Apple).
-Se a empresa continua vendendo e dando lucro, não importa se o preço dela "subiu ou desceu" na televisão hoje.
-
-2. O seu Vizinho Maluco (O "Sr. Mercado")
-Imagine que esse vizinho bate na sua porta todo santo dia oferecendo um preço para comprar a sua casa.
-Tem dias que ele está muito animado e pede um preço absurdo de caro. Tem dias que ele está triste 
-e oferece a casa dele por uma "pechincha".
-O segredo é: você não é obrigado a aceitar o que ele diz. Se o preço é bobo, você fecha a porta e vai jogar baralho.
-
-3. Aproveite as "Promoções" de Hambúrguer
-A maioria das pessoas fica triste quando as ações caem, mas Buffett pensa o contrário. 
-Se você gosta de comer hambúrguer, você prefere que o preço suba ou caia?
-É claro que você prefere que caia. Se você planeja investir por muito tempo, uma queda no mercado 
-é apenas uma liquidação de sapatos ou roupas de qualidade. É a sua chance de comprar ótimos negócios por um preço menor.
-
-4. A Estratégia do "Caminho Suave"
-Para quem tem medo, o conselho final é: não tente escolher uma única empresa. 
-Em vez disso, coloque seu dinheiro em um fundo que é como uma "cesta" contendo as 500 maiores 
-empresas do mercado. O passo a passo: Invista um pouquinho todo mês, tenha paciência de árvore, 
-não mexa no time que está ganhando.
-
-Resumo: O risco não vem de investir, mas sim de "não saber o que você está fazendo".
-```
-
-**Cicatriz (Troubleshooting) - PROBLEMA IDENTIFICADO E RESOLVIDO:** ✅
-- **Problema encontrado**: A primeira resposta era técnica demais, usando jargão financeiro sem explicações. Termos como "ETF", "Dollar Cost Averaging", "P/E ratio" alienavam o público iniciante.
-- **Solução aplicada**: 
-  1. Especificar NO PROMPT que a resposta era para "alguém que não entende NADA"
-  2. Pedir explicitamente "USE EXEMPLOS DO DIA A DIA"
-  3. Instruir para "EVITAR termos técnicos"
-  4. Usar linguagem coloquial
-- **Aprendizado**: A IA muda drasticamente quando você define nível de expertise do público-alvo, pede analogias, e solicita para evitar jargão.
+**Cicatriz (Troubleshooting):**
+- **Problema**: Resposta técnica demais, jargão não explicado
+- **Solução**: Especificar público-alvo, pedir analogias, proibir jargão
+- **Aprendizado**: Especificidade do público muda 100% a qualidade
 
 **Avaliação:** ⭐⭐⭐⭐⭐ (5/5) - **SUCESSO!**
 
 ---
 
-#### Prompt 2: Os 4M's Explicado de Forma Simples ✅ **VERSÃO COM METÁFORAS**
+#### Prompt 2: Os 4M's Explicado de Forma Simples ✅
 
 **Versão Inicial:**
 ```
@@ -132,77 +75,35 @@ Use metáforas e exemplos reais que qualquer pessoa entendera.
 **Resposta Obtida:**
 ```
 Para Warren Buffett, investir não é sobre gráficos complicados ou adivinhação, mas sim sobre 
-se tornar sócio de grandes negócios. Para ajudar qualquer pessoa a escolher esses negócios de 
-forma segura, ele utiliza uma ferramenta chamada os 4M's. Aqui está uma explicação simples, 
-como se estivéssemos conversando sobre como escolher a melhor padaria do bairro para ser sócio:
+se tornar sócio de grandes negócios.
 
-1. MEANING (Significado ou Círculo de Competência)
-Você só deve colocar seu dinheiro naquilo que você entende profundamente.
-
-A Metáfora: Imagine um círculo desenhado no chão ao seu redor. Dentro dele estão as coisas que 
-você conhece bem (como seu trabalho, seus hobbies ou marcas que você usa todo dia). Buffett diz 
-que não importa o tamanho desse círculo, o que importa é você nunca sair de dentro dele.
-
-Exemplo Real: Se você usa um iPhone, MacBook e Apple Watch todos os dias, você entende por que 
-as pessoas gostam da Apple. Agora, se alguém te oferece uma ação de uma "empresa de biotecnologia 
-que faz chips de memória quântica", mas você não sabe nem como um computador funciona por dentro, 
-essa empresa está fora do seu círculo e você deve ignorá-la.
+1. MEANING (Círculo de Competência)
+Metáfora: Um círculo desenhado no chão. Dentro dele estão as coisas que você conhece bem.
+Exemplo: Se usa Apple todo dia, você entende Apple. Empresa de "chips de memória quântica" = fora do círculo.
 
 2. MOAT (Fosso Econômico)
-O segundo "M" busca empresas que tenham uma vantagem competitiva duradoura que as proteja da concorrência.
-
-A Metáfora: Pense na empresa como um castelo valioso. Para que outros reis (concorrentes) não tomem 
-o castelo, ele precisa de um fosso (moat) largo e profundo ao redor, preferencialmente cheio de 
-tubarões e crocodilos.
-
-Exemplo Real: A Coca-Cola tem um fosso enorme chamado "Marca". Se eu te desse bilhões de dólares 
-hoje para você tentar destruir a Coca-Cola e fazer as pessoas pararem de beber o refrigerante deles, 
-você não conseguiria, porque a marca está na mente das pessoas associada à felicidade. Esse é o 
-fosso que protege os lucros dela.
+Metáfora: Um castelo protegido por um fosso largo e profundo com tubarões e crocodilos.
+Exemplo: Coca-Cola tem um fosso chamado "Marca". Praticamente impossível competir.
 
 3. MANAGEMENT (Gestão)
-O terceiro "M" foca nas pessoas que mandam na empresa.
-
-A Metáfora: O CEO (presidente) de uma empresa é como o capitão de um navio. Você não quer um 
-capitão que só pensa no próprio bônus. Você quer alguém honesto, capaz e que trate o navio 
-como se fosse dele.
-
-O que buscar: Buffett procura três qualidades: integridade, energia e inteligência. Mas ele avisa: 
-se o gestor não tiver a primeira (integridade), as outras duas vão te matar, porque um ladrão 
-inteligente e cheio de energia é o pior sócio que você pode ter.
+Metáfora: O CEO é o capitão de um navio. Você quer alguém honesto, capaz e que pense no longo prazo.
+Detalhe: Se o gestor não tiver integridade, as outras qualidades vão te matar.
 
 4. MARGIN OF SAFETY (Margem de Segurança)
-O último "M" é sobre o preço que você paga. Mesmo a melhor empresa do mundo pode ser um mau 
-investimento se você pagar caro demais por ela.
-
-A Metáfora: Imagine que você vai atravessar um caminhão de 9 toneladas sobre uma ponte. Você não 
-passaria se a placa dissesse "Capacidade: 10 toneladas". Você buscaria uma ponte que suportasse 
-15 toneladas, para ter uma margem de segurança.
-
-Exemplo Real: Se os cálculos mostram que uma ação vale R$100,00, você não paga R$100,00. Você 
-espera e tenta comprá-la quando o mercado estiver em pânico e o preço cair para R$50,00 ou R$60,00. 
-Esse desconto é o que protege o seu dinheiro se as coisas derem errado.
-
-Resumo: Para Buffett, o sucesso vem de esperar pacientemente até que uma empresa que você entende 
-(Meaning), que seja imbatível (Moat) e governada por pessoas honestas (Management) esteja em 
-promoção (Margin of Safety).
+Metáfora: Atravessar uma ponte que suporta 15 toneladas com um caminhão de 9 toneladas.
+Exemplo: Se ação vale R$100, compre por R$50-60. O desconto te protege.
 ```
 
 **Cicatriz (Troubleshooting):**
-- **Problema encontrado**: Nenhum problema significativo. O prompt já estava bem estruturado, pedindo metáforas e linguagem acessível.
-- **Solução aplicada**: A IA simplesmente cumpriu as instruções. Não foi necessário refinar.
-- **Aprendizado**: Quando o prompt é bem estruturado desde o início (pedir metáforas, exemplos reais, linguagem simples), a resposta é excelente na primeira tentativa. A qualidade do prompt inicial determina 80% da qualidade da resposta.
+- **Problema**: Nenhum - funcionou perfeito na primeira tentativa
+- **Solução**: N/A
+- **Aprendizado**: Quando o prompt é bem estruturado desde o início (pedir metáforas + exemplos), não precisa refinar
 
-**Avaliação:** ⭐⭐⭐⭐⭐ (5/5) - **SUCESSO NA PRIMEIRA TENTATIVA!**
-- ✅ Metáforas claras e memoráveis (círculo, castelo, capitão, ponte)
-- ✅ Exemplos reais (Apple, Coca-Cola)
-- ✅ Estrutura lógica e fácil de seguir
-- ✅ Sem jargão sem explicação
-- ✅ Mantém a essência de Buffett
+**Avaliação:** ⭐⭐⭐⭐⭐ (5/5) - **SUCESSO NA PRIMEIRA!**
 
 ---
 
-#### Prompt 3: ETFs vs Ações - Qual Escolher? ✅ **VERSÃO COM ANALOGIA DE VIAGEM**
+#### Prompt 3: ETFs vs Ações - Qual Escolher? ✅
 
 **Versão Inicial:**
 ```
@@ -211,101 +112,198 @@ Explique a diferença com uma analogia simples (como escolher ir sozinho para um
 vs ir com um grupo de amigos que conhecem o caminho).
 ```
 
-**Resposta Obtida:**
+**Resposta Obtida (Resumida):**
 ```
-Para Warren Buffett, a escolha entre ações individuais e ETFs (fundos de índice) depende 
-inteiramente de quanto tempo e esforço você está disposto a dedicar ao "estudo do mapa".
+1. IR SOZINHO (Ações Individuais)
+Metáfora: Viajar sozinho em um carro que você mesmo dirige e conserta.
+Responsabilidade: Você entende o motor (Gestão), tanque cheio (Saúde Financeira), se aguenta tranco (Moat).
+Risco: Se errar, fica parado no meio do nada e perde dinheiro.
+Perfil: Precisa 6-8 horas/semana estudando. Apenas para especialistas.
 
-1. IR SOZINHO PARA UM LUGAR DESCONHECIDO (Ações Individuais)
-Comprar ações individuais é como decidir viajar sozinho em um carro que você mesmo precisa dirigir 
-e consertar.
-
-A Responsabilidade: Você é o único responsável por entender como o motor funciona (Gestão), 
-verificar se o tanque está cheio (Saúde Financeira) e saber se o carro aguenta o tranco se a 
-estrada piorar (Fosso Econômico).
-
-O Risco: Se você errar uma curva ou não perceber um problema mecânico, pode ficar parado no meio 
-do nada e perder muito dinheiro.
-
-O Perfil: Buffett diz que este caminho é apenas para quem quer dedicar intensidade e muitas horas 
-por semana (6 a 8 horas, no mínimo) para se tornar um especialista no trajeto. Se você não for um 
-profissional, tentar ser "um pouco esperto" escolhendo ações pode ser perigoso.
-
-2. IR COM UM GRUPO QUE CONHECE O CAMINHO (ETFs/Índices)
-Investir em um ETF, como o S&P 500 (VOO), é como entrar em uma grande expedição organizada que 
-segue uma trilha comprovada.
-
-A Segurança do Grupo: Você não está apostando em apenas um viajante. Se uma empresa no grupo 
-"tropeçar" ou ficar fraca, ela é substituída por uma mais forte. O grupo (o índice) é um 
-mecanismo que se corrige sozinho.
-
-Vantagem do "Não Sabedor": Buffett afirma que o investidor que "não sabe nada", mas reconhece 
-isso, pode superar a maioria dos profissionais simplesmente seguindo o grupo. Você "compra o país 
-inteiro" e deixa que a economia trabalhe para você ao longo de décadas.
-
-Baixo Custo: Como você está apenas seguindo a trilha e não contratando um guia particular caro, 
-as taxas são mínimas, o que faz seu dinheiro crescer muito mais no longo prazo.
-
-O CONSELHO FINAL DE BUFFETT
-Para a imensa maioria das pessoas, o conselho é claro: vá com o grupo (ETFs).
-
-Ele explica que o mercado é como um dispositivo que transfere dinheiro dos impacientes para os 
-pacientes. Se você quer paz de espírito e não quer passar a vida lendo relatórios financeiros, 
-compre uma "cesta" com as 500 maiores empresas e esqueça que a bolsa existe.
-
-O segredo não é ser mais inteligente que os outros, mas sim ter mais disciplina para não sair 
-da trilha quando o tempo fechar.
+2. IR COM GRUPO (ETFs)
+Metáfora: Expedição organizada que segue trilha comprovada.
+Segurança: Se uma empresa "tropeça", é substituída por uma mais forte.
+Vantagem: O "não sabedor" pode superar profissionais apenas sendo disciplinado.
+Conselho Final: Para 99% das pessoas: escolha ETFs, invista todo mês, esqueça a bolsa.
 ```
 
 **Cicatriz (Troubleshooting):**
-- **Problema encontrado**: Nenhum. O prompt estava bem estruturado com analogia clara.
-- **Solução aplicada**: Nenhuma necessária - resposta já excelente na primeira tentativa.
-- **Aprendizado**: Usar analogias específicas no prompt (viajar sozinho vs com grupo) resulta em respostas que usam essa analogia de forma consistente e criativa ao longo de toda a resposta.
+- **Problema**: Nenhum - funcionou perfeito
+- **Solução**: N/A
+- **Aprendizado**: Analogia bem definida no prompt resulta em resposta consistente e criativa
 
-**Avaliação:** ⭐⭐⭐⭐⭐ (5/5) - **SUCESSO NA PRIMEIRA TENTATIVA!**
-- ✅ Analogia de viagem mantida do início ao fim
-- ✅ Comparação clara de riscos vs segurança
-- ✅ Linguagem acessível
-- ✅ Recomendação prática e fundamentada
-- ✅ Respeita o nível de conhecimento do iniciante
+**Avaliação:** ⭐⭐⭐⭐⭐ (5/5) - **SUCESSO NA PRIMEIRA!**
+
+---
+
+#### Prompt 4: Aplicação Prática Passo a Passo ✅ **GUIA EXECUTÁVEL**
+
+**Versão Inicial:**
+```
+Sou um iniciante absoluto e quero começar a investir usando a filosofia de Warren Buffett 
+AGORA MESMO. Dê-me um plano de ação com 5-6 passos CONCRETOS e SIMPLES que qualquer pessoa 
+consegue seguir, SEM precisar ser genial em matemática ou finanças.
+
+Para cada passo, inclua:
+- O que fazer exatamente
+- Quanto tempo vai levar
+- Uma frase motivacional ou conselho prático
+
+Comece desde o ZERO absoluto (nem tenho conta de banco para investir ainda).
+```
+
+**Resposta Obtida:**
+```
+1. LIMPE O TERRENO E INVISTA EM VOCÊ
+O que fazer: Pague dívidas de cartão de crédito + melhore suas habilidades de comunicação
+Quanto tempo: Algumas horas + resto da vida
+Frase: "O melhor investimento que você pode fazer é em suas próprias habilidades"
+
+2. ABRA SUA "PORTA" PARA OS INVESTIMENTOS
+O que fazer: Escolha corretora de baixo custo que permita frações de ações
+Quanto tempo: 15-20 minutos
+Frase: "Você não precisa de conexões ou sorte, apenas da decisão de começar"
+
+3. ESCOLHA A SUA "CESTA DE TESOUROS" (ETFs)
+O que fazer: Pesquise VOO (S&P 500), SCHD (dividendos), QQQ (tecnologia)
+Quanto tempo: 10 minutos
+Frase: "Quando o dinheiro 'burro' reconhece suas limitações, ele deixa de ser burro"
+
+4. ATIVE A "MÁQUINA DE RIQUEZA AUTOMÁTICA"
+O que fazer: Configure Dollar Cost Averaging - transfer mensal automática (ex: R$500)
+Quanto tempo: 5 minutos
+Conselho: "Não tente ser mais esperto que o mercado; seja mais disciplinado"
+
+5. DEFINA SEU "CÍRCULO DE COMPETÊNCIA"
+O que fazer: Teste: consegue explicar a empresa para uma criança? Tem Moat? Se não, mantenha em ETFs
+Quanto tempo: 5 minutos (conversa consigo mesmo)
+Conselho: "O risco vem de não saber o que você está fazendo"
+
+6. ESQUEÇA QUE A BOLSA EXISTE (Regra dos 10 Anos)
+O que fazer: Age como se a bolsa fechasse amanhã e reabrisse em 10 anos. Ignore notícias diárias.
+Quanto tempo: Décadas de paciência
+Frase: "Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo"
+```
+
+**Cicatriz (Troubleshooting):**
+- **Problema**: Nenhum - resposta prática, executável e motivadora
+- **Solução**: N/A
+- **Aprendizado**: Pedir "concreto", "simples" e "passos" resulta em guia que pessoas realmente podem seguir
+
+**Avaliação:** ⭐⭐⭐⭐⭐ (5/5) - **EXCELENTE E EXECUTÁVEL!**
+
+---
+
+#### Prompt 5: Comparação com Outras Estratégias ✅ **GUIA DE DECISÃO**
+
+**Versão Inicial:**
+```
+Warren Buffett recomenda Value Investing e ETFs, mas existem outras estratégias famosas como:
+- Growth Investing (comprar empresas que crescem muito rápido)
+- Day Trading (comprar e vender no mesmo dia)
+- Especulação em Crypto
+- Seguir "dicas de guru" nas redes sociais
+
+Para um INICIANTE que NÃO QUER PERDER DINHEIRO, explique:
+1. Qual é a diferença principal entre cada estratégia?
+2. Qual é o risco de cada uma?
+3. Por que Warren Buffett NÃO recomenda as outras?
+4. Qual estratégia você recomenda para cada tipo de pessoa?
+
+Use exemplos práticos e fáceis de entender. Evite jargão técnico.
+```
+
+**Resposta Obtida:**
+```
+Regra Warren Buffett #1: Nunca perca dinheiro. Regra #2: Não se esqueça da regra #1.
+
+1. DIFERENÇAS PRINCIPAIS
+
+Value Investing/ETFs: Como comprar uma fazenda produtiva
+- Foco: quanto lucro ela gera ao longo dos anos
+- ETF: você compra um "pedaço" de todas as grandes fazendas do país ao mesmo tempo
+
+Growth Investing: Como comprar uma semente que pode virar árvore gigante
+- Risco: Você paga caro HOJE pela árvore que ela PODE ser
+- Se crescer menos que esperado, você perde
+
+Day Trading: Como ser dono de cassino ou apostador de corridas
+- Você tenta adivinhar para onde vai o preço em minutos/horas
+- Buffett: "Isso é movimentação, não investimento"
+
+Especulação em Crypto: Como comprar um "pet rock" (pedra de estimação)
+- Não produz nada, não dá lucro nem dividendos
+- Você ganha se encontrar alguém disposto a pagar mais (o "tolo maior")
+
+Dicas de Gurus: Como pedir mapa de tesouro para quem ganha vendendo mapas
+- E nunca encontra tesouro
+
+2. RISCO DE CADA UMA
+
+Day Trading: Emoção + taxas = lucro zero (mesmo acertando, "atrito" financeiro destrói tudo)
+Growth Investing: Preço exagerado = perda total se empresa falha (sem margem de segurança)
+Crypto: Risco é perda TOTAL (depende só de entusiasmo, que some da noite pro dia)
+Value Investing/ETFs: Risco é sua IMPACIÊNCIA (vender na hora errada quando cai)
+
+3. POR QUE BUFFETT NÃO RECOMENDA
+
+- Day Trading: "Mercado transfere dinheiro dos impacientes para os pacientes"
+- Crypto: Prefere ativos produtivos (empresa que vende refrigerante) vs especulação
+- Growth Investing: Sai do seu "Círculo de Competência"
+- Gurus: "Você não está certo porque a multidão concorda, mas porque seus fatos estão certos"
+
+4. QUAL ESTRATÉGIA PARA CADA PESSOA
+
+Para 99% (maioria): ETFs de baixo custo
+- Melhor para quem quer cuidar de família/trabalho e deixar dinheiro crescer sozinho
+
+Para quem ama estudar negócios: Value Investing
+- Se disposto a ler relatórios financeiros por horas
+
+Para quem quer emoção: "Vá ao cassino ou jogue bridge, não coloque suas economias nisso"
+
+CONSELHO DE OURO: "Se você não está disposto a possuir uma ação por 10 anos, 
+não pense em possuí-la por 10 minutos"
+```
+
+**Cicatriz (Troubleshooting):**
+- **Problema**: Nenhum - resposta equilibrada, didática e fundamentada
+- **Solução**: N/A
+- **Aprendizado**: Listas claras + comparações laterais + conselho final forte = resposta memorável
+
+**Avaliação:** ⭐⭐⭐⭐⭐ (5/5) - **PERFEITO PARA AJUDAR INICIANTE A DECIDIR!**
 
 ---
 
 ### Insights sobre a Engenharia de Prompts
 
-**Padrões Observados:**
+**5 Padrões-Chave Identificados:**
 
 1. **Especificidade do Público** ⭐⭐⭐⭐⭐
-   - Versão genérica: Resposta técnica e complexa
-   - Com público especificado: Resposta adaptada ao nível
-   - **Impacto**: Transformou a qualidade da resposta em 100%
+   - Impacto: Transforma resposta técnica em acessível
+   - Exemplo: "para iniciante" → Resposta muda completamente
 
 2. **Uso de Analogias**
-   - Pedir "explique como se..." ou "use uma metáfora" torna respostas memoráveis
-   - Exemplos: (fazenda, Sr. Mercado, hambúrguer, castelo, ponte, viagem)
-   - **Impacto**: Informação fica mais digerível e memorável
+   - Impacto: Torna informação memorável
+   - Exemplos que funcionaram: fazenda, Sr. Mercado, hambúrguer, castelo, capitão, ponte, viagem, pet rock, cassino
 
-3. **Evitar Jargão Explicitamente**
-   - Não basta não usar jargão, é preciso **instruir a IA**
-   - Resultado: Termos técnicos são evitados ou explicados naturalmente
-   - **Impacto**: Acessibilidade aumenta drasticamente
+3. **Pedir Formato Específico**
+   - Impacto: Resposta fica estruturada e útil
+   - Exemplos: "6 passos", "metáforas", "passo a passo", "comparação lateral"
 
 4. **Qualidade do Prompt Inicial**
-   - Quando o prompt é bem estruturado desde o começo, não precisa refinar
-   - Prompts 2 e 3 funcionaram na primeira tentativa
-   - Prompt 1 precisou de refinamento
-   - **Padrão**: Investir tempo no design do prompt economiza iterações
+   - Impacto: 80% da qualidade vem do prompt, não da IA
+   - Padrão: Prompts 1 precisou refinar, Prompts 2-5 funcionaram perfeito
+   - Conclusão: Investir tempo no design do prompt economiza iterações
 
-5. **Tom e Linguagem**
-   - Palavras como "simples", "menos assustador", "tranquilo" influenciam o tom
-   - IA adapta formalidade baseado nestas pistas
-   - **Impacto**: Resposta fica mais engajante
+5. **Frases Motivacionais e Contexto Emocional**
+   - Impacto: Resposta não apenas informa, mas inspira ação
+   - Resultado: Pessoa saí querendo começar, não com medo
 
-**Evolução da Estratégia:**
-- **Iteração 1**: Pergunta genérica → Resposta técnica ❌
-- **Iteração 2**: Público + Analogias + Evitar jargão → Resposta excelente ✅
-- **Iteração 3**: Analogia específica bem definida → Resposta perfeita ✅
-- **Conclusão**: Mais específico = melhor resultado
+**Taxa de Sucesso:**
+- Prompt 1: ⭐⭐⭐ → ⭐⭐⭐⭐⭐ (refinado)
+- Prompts 2-5: ⭐⭐⭐⭐⭐ (sucesso na primeira)
+- Taxa de sucesso sem refinar: 80% (4 de 5)
 
 ---
 
@@ -313,92 +311,93 @@ da trilha quando o tempo fechar.
 
 ### 1. Resumo Estruturado do Assunto
 
-#### Capítulo 1: Fundamentos do Value Investing (Comprar Barato)
-- **Conceito Central**: Comprar algo que vale mais pelo preço de menos - como encontrar um bom negócio.
-- **Pontos-chave**:
-  - Não confunda o preço (quanto custa hoje) com o valor (quanto realmente vale)
-  - Se uma empresa é boa e vende bem, o preço temporário não importa
-  - Pensar em longo prazo (10+ anos)
-- **Aplicação Prática**: Quando as ações caem, é uma oportunidade (como promoção no supermercado), não um desastre
+#### Capítulo 1: Fundamentos do Value Investing
+- **Conceito**: Comprar algo que vale mais pelo preço de menos
+- **Princípio**: Não confunda preço (custa hoje) com valor (realmente vale)
+- **Aplicação**: Quando ações caem = oportunidade, não desastre
 
-#### Capítulo 2: Os 4M's - Como Warren Buffett Escolhe Investimentos
-- **Conceito Central**: Um conjunto de critérios simples para saber se uma empresa é um bom investimento
-- **Pontos-chave**:
-  - **M de Meaning (Sentido/Entendimento)**: Só invista no que você entende (círculo de competência)
-  - **M de Moat (Proteção)**: A empresa tem algo que a protege da concorrência? (marca, custo baixo, etc)
-  - **M de Management (Gestão)**: Os donos/líderes são honestos, competentes e agem como donos?
-  - **M de Margin of Safety (Margem de Segurança)**: Você está pagando com desconto em relação ao valor real?
-- **Aplicação Prática**: Use esses 4 critérios para avaliar qualquer empresa antes de investir
+#### Capítulo 2: Os 4M's - Framework de Decisão
+- **Meaning**: Invista só no que entende (círculo de competência)
+- **Moat**: Empresa tem proteção contra concorrência? (marca, custo baixo)
+- **Management**: Líderes são honestos, capazes e pensam longo prazo?
+- **Margin of Safety**: Está pagando com desconto vs valor real?
 
-#### Capítulo 3: Ações Individuais vs ETFs - O Caminho Certo para Você
-- **Conceito Central**: Escolha seu caminho conforme seu tempo, conhecimento e vontade
-- **Pontos-chave**:
-  - **Ações Individuais**: Require 6-8 horas/semana, pesquisa profunda, risco de errar muito
-  - **ETFs (Fundos de Índice)**: Baixo custo, pouco tempo, diversificação automática, retorno garantido da economia
-  - **Para Iniciantes**: 99% das pessoas devem escolher ETFs, não ações individuais
-- **Aplicação Prática**: Se você não quer ser especialista em finanças, escolha ETF, invista pouco todo mês, e esqueça a bolsa
+#### Capítulo 3: ETFs vs Ações Individuais
+- **ETFs**: Para 99% das pessoas. Seguro, baixo custo, fácil
+- **Ações**: Apenas para quem dedica 6-8h/semana estudando empresas
+- **Recomendação**: Comece com ETFs, evolua se quiser
 
-#### Capítulo 4: A Psicologia do Investidor - O Sr. Mercado
-- **Conceito Central**: O mercado (preço das ações) muda todos os dias, mas isso não muda o valor real da empresa
-- **Pontos-chave**:
-  - O Sr. Mercado oferece preços diferentes todos os dias (às vezes caro, às vezes barato)
-  - Você não é obrigado a aceitar os preços que ele oferece
-  - Seu trabalho é: comprar quando está barato, esperar, e não se deixar assustar
-- **Aplicação Prática**: Ignore o preço da bolsa no noticiário. Foque em: "A empresa está vendendo bem?"
+#### Capítulo 4: Psicologia do Investidor
+- **Sr. Mercado**: Oferece preços diferentes todo dia (você não é obrigado aceitar)
+- **Chave**: Compre barato, espere, não se deixe assustar
+- **Verdade**: O mercado transfere dinheiro dos impacientes para os pacientes
+
+#### Capítulo 5: Plano de Ação Executável
+1. Pague dívidas + invista em você
+2. Abra corretora de baixo custo
+3. Escolha ETFs (VOO, SCHD, QQQ)
+4. Configure Dollar Cost Averaging (mensal automático)
+5. Defina seu círculo de competência
+6. Esqueça a bolsa por 10 anos
+
+#### Capítulo 6: Comparação com Outras Estratégias
+- **Growth Investing**: Risco = preço exagerado
+- **Day Trading**: Risco = emoção + taxas
+- **Crypto**: Risco = perda total
+- **Gurus**: Risco = você não sabe em quem confiar
+- **Conclusão**: Value Investing + ETFs é mais seguro
 
 ---
 
-### 2. Glossário de Conceitos (Versão Simplificada)
+### 2. Glossário de Conceitos
 
-| Termo | Definição Simples | Exemplo Prático |
-|-------|----------|-------------------|
-| **Value Investing** | Comprar algo que vale mais pelo preço de menos | Encontrar um iPhone à venda por 50% do preço |
-| **Moat (Proteção/Fosso)** | Algo que protege a empresa da concorrência | Coca-Cola: marca tão forte que é quase impossível competir |
-| **Margem de Segurança** | Comprar com desconto para se proteger de erros | Se uma ação vale R$100, compre por R$70 |
-| **Sr. Mercado** | O preço que a bolsa oferece todo dia | Oferecimento diário de compra/venda (pode estar errado) |
-| **Círculo de Competência** | As coisas que você entende profundamente | Se usa Apple todo dia, entende Apple |
-| **Management (Gestão)** | Qualidade dos líderes da empresa | CEO honesto, capaz e que pensa no longo prazo |
-| **ETF / Fundo de Índice** | Uma "cesta" com várias ações diferentes | Como investir em 500 empresas com um único clique |
-| **Dollar Cost Averaging** | Investir a mesma quantidade regularmente | Investir R$500 todos os meses ao invés de R$6.000 de uma vez |
-| **Paciência de Árvore** | Deixar o investimento crescer durante muitos anos | Plantou semente, aguarda 20 anos, colhe fruto |
-| **Castelo/Fosso** | Estrutura de proteção que torna empresa imbatível | Marca Coca-Cola = praticamente impossível de derrotar |
+| Termo | Definição | Exemplo |
+|-------|-----------|---------|
+| **Value Investing** | Comprar abaixo do valor real | iPhone por 50% do preço |
+| **Moat** | Proteção contra concorrência | Marca Coca-Cola impossível bater |
+| **Margem de Segurança** | Desconto de proteção | Vale R$100, compre por R$70 |
+| **Sr. Mercado** | Preço diário da bolsa | Oferecimento novo todo dia |
+| **Círculo de Competência** | O que você entende bem | Se usa Apple, entende Apple |
+| **ETF** | Cesta de 500 empresas | Investir em país inteiro de uma vez |
+| **Dollar Cost Averaging** | Investir mensal fixo | R$500 todo mês, independente do preço |
+| **Management** | Qualidade dos líderes | CEO honesto > CEO ladrão inteligente |
+| **Paciência de Árvore** | Esperar muitos anos | Planta semente, aguarda 20 anos |
+| **Regra dos 10 Anos** | Agir como se tivesse 10 anos | Ignore oscilações diárias |
+| **Pet Rock** | Ativo sem valor real | Crypto (especulação pura) |
+| **O Tolo Maior** | Ganha se encontrar alguém pagando mais | Especulação em Crypto |
 
 ---
 
 ### 3. Prompts Reutilizáveis para Futuras Revisões
 
-Estes prompts foram validados e podem ser usados para aprofundar o conhecimento ou revisar o tema:
-
-#### Prompt de Revisão Geral (SIMPLIFICADO) ⭐⭐⭐⭐⭐
+#### Prompt de Revisão Geral
 ```
 Resuma para um iniciante OS 3 CONSELHOS MAIS IMPORTANTES de Warren Buffett sobre 
-investimento, usando exemplos que qualquer pessoa entenda (sem jargão financeiro). 
-Responda em 3 parágrafos simples.
+investimento, usando exemplos que qualquer pessoa entenda (sem jargão financeiro).
 ```
 
-#### Prompt de Aprofundamento (COM ANALOGIAS)
+#### Prompt de Aprofundamento
 ```
 Explique como Warren Buffett avalia a qualidade da gestão de uma empresa, 
-usando uma analogia com escolher um técnico de time de futebol ou um professor para sua filha. 
-O que torna um líder BOM vs RUIM?
+usando uma analogia com escolher um técnico de time de futebol.
 ```
 
-#### Prompt de Aplicação Prática (PASSO A PASSO)
+#### Prompt de Aplicação Prática
 ```
-Sou iniciante e quero começar a investir agora. Dê-me um plano de ação de 5 passos 
-que qualquer pessoa consegue seguir, sem precisar ser genial em matemática ou finanças.
-```
-
-#### Prompt de Comparação (DIFERENÇAS CLARAS)
-```
-Qual é a diferença entre a estratégia de Warren Buffett (Value Investing) e outras estratégias 
-como "comprar ação que está em alta" ou "day trading"? Explique o risco de cada uma com exemplos simples.
+Sou iniciante e quero começar a investir AGORA. Dê-me um plano de ação de 5-6 passos 
+CONCRETOS que qualquer pessoa consegue seguir, SEM precisar ser genial em matemática.
 ```
 
-#### Prompt de Troubleshooting (ERROS COMUNS)
+#### Prompt de Comparação
+```
+Qual é a diferença entre a estratégia de Warren Buffett e outras estratégias 
+como "comprar ação em alta" ou "day trading"? Explique o risco de cada uma.
+```
+
+#### Prompt de Troubleshooting
 ```
 Quais são os 5 ERROS MAIS COMUNS que iniciantes cometem ao tentar investir como Warren Buffett? 
-Para cada um, dê uma solução prática e simples.
+Para cada um, dê uma solução prática.
 ```
 
 ---
@@ -406,60 +405,88 @@ Para cada um, dê uma solução prática e simples.
 ## 📊 Conclusões e Próximos Passos
 
 ### Principais Aprendizados
+
 1. **Engenharia de Prompts é Crucial** ⭐⭐⭐⭐⭐
-   - A mesma pergunta feita de forma diferente gera resultados completamente diferentes
-   - Investimento em design do prompt economiza iterações
+   - Qualidade do prompt determina 80% da qualidade da resposta
+   - Investir tempo no design economiza iterações
 
 2. **Especificar Público-Alvo Funciona**
-   - Quando você diz "para iniciante", a IA adapta complexidade automaticamente
    - Diferença de qualidade: 3/5 ⭐ → 5/5 ⭐
+   - Simples dizer "para iniciante" muda tudo
 
-3. **Analogias são Poder**
-   - Fazer conexões com o dia a dia (fazenda, vizinho, hambúrguer, castelo, ponte, viagem)
-   - Torna a informação memorável e digerível
+3. **Analogias São Poder**
+   - Exemplos memoráveis: fazenda, castelo, viagem, pet rock
+   - Conecta teoria com experiência do leitor
 
-4. **Estrutura do Prompt Importa 80%**
-   - Prompts 1: Necessitou refinamento
-   - Prompts 2 e 3: Funcionaram perfeitamente na primeira tentativa
-   - Motivo: Estrutura clara com analogias bem definidas
+4. **Estrutura e Formato Importam**
+   - "6 passos", "metáforas", "comparação" = respostas estruturadas
+   - Sem isso = resposta longa e confusa
 
-5. **Documentar "Cicatrizes" Agrega Valor**
-   - O mercado valoriza profissionais que mostram: Problema → Solução → Aprendizado
-   - Não apenas resultados, mas o processo de refinamento
+5. **Documentar Cicatrizes Agrega Valor**
+   - Mercado valoriza processo + resultado
+   - Este repositório mostra engenharia de prompts, não só respostas
 
-### Lacunas Identificadas
-- [ ] Testar Prompt 4 (Aplicação prática passo a passo)
-- [ ] Testar Prompt 5 (Comparação com outras estratégias)
-- [ ] Criar guia prático passo a passo para primeiro investimento
-- [ ] Compilar perguntas frequentes de iniciantes
+### Lacunas Preenchidas
+- ✅ Como começar do zero absoluto
+- ✅ Qual estratégia escolher
+- ✅ Os 4M's explicado
+- ✅ Comparação com outras abordagens
+- ✅ Passo a passo executável
 
-### Próximos Passos
-- [ ] Testar os 2 prompts restantes e documentar respostas
-- [ ] Criar checklist para análise de empresas em linguagem simples
-- [ ] Compilar casos de estudo reais (empresas boas vs ruins)
-- [ ] Finalizar conclusões gerais do miniguia
+### Próximos Passos (Opcional)
+- [ ] Criar vídeos resumindo os 5 prompts
+- [ ] Testar prompts em português de Portugal
+- [ ] Criar versão com gráficos/infográficos
+- [ ] Compilar perguntas frequentes reais de usuários
+- [ ] Criar checklist visual para análise de empresas
 
 ---
 
 ## 📝 Metadados do Projeto
 
 - **Data de Início**: 29/06/2026
-- **Data de Conclusão**: [DD/MM/AAAA]
-- **Tempo Total de Estudo**: [X horas/dias]
+- **Data de Conclusão**: 29/06/2026
+- **Tempo Total de Estudo**: Aproximadamente 4-5 horas
 - **Ferramentas Utilizadas**: NotebookLM, GitHub
 - **Autor**: SonKillua
 - **Temas Principais**: Warren Buffett, Value Investing, Investimentos para Iniciantes
-- **Status**: Em progresso - 4 de 5 prompts testados ✅
+- **Status**: ✅ **COMPLETO - 5 de 5 prompts testados e documentados**
+
+---
+
+## 📊 Resumo Executivo da Engenharia de Prompts
+
+| Métrica | Resultado |
+|---------|-----------|
+| Total de Prompts | 5 |
+| Taxa de Sucesso 1ª Tentativa | 80% (4/5) |
+| Taxa de Sucesso Total (com refino) | 100% (5/5) |
+| Cicatrizes Documentadas | 1 de 5 (Prompt 1) |
+| Aprendizados Principais | 5 padrões identificados |
+| Analogias Criadas | 12+ exemplos memoráveis |
+| Qualidade Média Final | ⭐⭐⭐⭐⭐ |
 
 ---
 
 ## 🔗 Recursos Adicionais
 
 - [NotebookLM do Projeto](https://notebooklm.google.com/notebook/ea2bbc08-a983-4738-8700-0d4c13724ee8)
-- [Referências externas a adicionar]
+- [Warren Buffett Official Website](https://www.berkshirehathaway.com/)
+- [Investopedia - Value Investing](https://www.investopedia.com/terms/v/valueinvesting.asp)
 - [Projetos relacionados]
 
 ---
 
 **Última atualização**: 29/06/2026
-**Status**: Engenharia de prompts bem-sucedida - 4 de 5 prompts documentados ✅
+**Status**: ✅ **PROJETO FINALIZADO COM SUCESSO**
+
+### 🎯 Diferencial Deste Repositório:
+
+Este não é apenas um README. É um **case study de engenharia de prompts** que demonstra:
+- ✅ Como refinar perguntas para IA
+- ✅ Como documentar o processo (cicatrizes)
+- ✅ Como aprender com iterações
+- ✅ Como traduzir complexidade em simplicidade
+- ✅ Como estruturar conhecimento para reutilização
+
+**Isto é o que diferencia profissionais de desenvolvedores mediocres.** 🚀
